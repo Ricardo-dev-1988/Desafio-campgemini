@@ -5,6 +5,7 @@
 No desafio a baixo, foi proposto a contrução de um <strong>algoritmo</strong> que criace uma <strong>escada com os asteriscos</strong>. Nesse primeiro desafio utilizei
 a estrutura de repetição <strong>for</strong> que a primeiro momento ela acrescentava o asterisco de 0 a 6 horizontal e a outra estrutura for vertical.
 
+![4](https://user-images.githubusercontent.com/93559261/153957755-8f9da0de-4e35-4392-bcdf-3ab1e776c587.png)
 
 <h2>Desafio - 2</h2>
 <br/>
